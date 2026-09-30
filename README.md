@@ -1,3 +1,14 @@
+
+## 🎥 Salesforce-Chai-Shop-Project 
+
+## 📄 Project Documentation
+
+👉 [View Project Documentation](https://docs.google.com/document/d/1FbPT1Hqdr234FrJAPGVoxi3OZ-jk1SRQ/edit?usp=sharing&ouid=117348299494960774316&rtpof=true&sd=true)
+
+## 🎥 Salesforce-Chai-Shop-Project video 
+
+[▶️ **Watch Project  Video**](https://drive.google.com/file/d/1vPo0gpPMZeCey3ruIWhNY6yv3d56a2Nm/view?usp=sharing)
+
 # 🌾 Farm Management System (FMS)
 
 A **Salesforce-based application** that digitizes and streamlines agricultural operations. It manages data for **farms, crops, farmers, and buyers**, and gives real-time insight through **reports and dashboards**.
